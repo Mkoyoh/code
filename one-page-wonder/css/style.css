@@ -1,0 +1,44 @@
+/*!
+ * Mastertech - One Page Wonder
+ * Insira seu código entre os comentários localizados no fim desta pagina ou/e
+ * Edite o código do layout original
+ */
+
+
+/* Edite o código abaixo para mudar as opções do layout original */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+header.masthead {
+    background: url('https://lh3.googleusercontent.com/kcU3iaLBPI5KrHmwdGdwA6uhPlBB-4Uk_ClMOkUezTWZJnYxF1TiCVzt5gmZ8kze-iOESMCZ81TM7zpk5dNwUT-LSFO4Ot0jnyYBGxotUSwPjROid-5rXNGlwfldp4Jiz_ph-GAi-QvfuqQnYVs2-XkzJzxHs5KgvEnP5C2lJJkGvyArEpzuluHF41eCdPcl9ASpZCAMcAlLvzyfJ-eWZDXIuPIpew8v6FR8Ow7_NPAw6vM4XLefeH1biM3m3B_xQ59N30aQI8R-yNLNVU7eUApA2vWMvFIwJkLwgTLBCwDg2uQnCT8AQoKFCxguufT2wG7uopuJtM6I6Rw5S0c-GBvPqyp9ym2O0J3PHUPlt9WNBNxCI6HMxUQ77cK5FyCp9VXvbwx9OnLtFxAjZtF1KYe3se-xhOfYn-wK73AbPHxvC01AjqVjshUuOuMQCqvODPgXZf7nUAI31FbCXhYd1xBTIuOiRAAJBQ4OULUaezsQOWqapX8ROJ5wnhlsVz4BlxABQG86gfEdJAXQyf61Z1bciheQ8qD4w91QO3XITpGbknPHHjlLyemh5LxQNOb8uzalouQ35GoCoIo7Bbq4JsZDubHzXu5C8Q5hkEI=w378-h672-no') no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+header.masthead>.overlay {
+    padding: 5rem 0;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+@media (min-width: 992px) {
+    header.masthead>.overlay {
+        padding: 10rem 0;
+    }
+}
+
+
+/* Inicio do meu CSS */
+
+
+/* Fim do meu CSS */
